@@ -5,17 +5,8 @@ Este projeto foi desenvolvido durante o curso "Robot Framework: automatizando te
 ## Estrutura do Projeto
 
 A estrutura do projeto é organizada da seguinte maneira:
-      curso-robot-alura/
-      ├── .vscode/
-      ├── Resources/
-      │ ├── pages/
-      │ │ └── cadastro.robot
-      │ ├── shared/
-      │ │ ├── setup_teardown.robot
-      │ │ └── main.robot
-      ├── Testes/
-      │ └── preenchimento_correto.robot
-      ├── README.md
+![image](https://github.com/leonesso/Robot-Framework-automatizando-testes/assets/65422524/b37a4470-95aa-4f6a-bee2-781079e9b131)
+
 
 ### Descrição das Pastas e Arquivos
 
