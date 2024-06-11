@@ -53,9 +53,8 @@ A estrutura do projeto é organizada da seguinte maneira:
 ## Execução dos Testes
 
 Para executar os testes, utilize o seguinte comando:
-```sh
-robot Testes/preenchimento_correto.robot
-
+      ```sh
+      robot Testes/preenchimento_correto.robot
 
 ##Contribuição
 Contribuições são bem-vindas! Envie pull requests ou reporte issues.
